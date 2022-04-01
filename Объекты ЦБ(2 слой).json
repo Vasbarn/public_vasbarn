@@ -788,7 +788,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-19"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -819,7 +821,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-20"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -850,7 +854,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-21"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -881,7 +887,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-22"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -912,30 +920,32 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-23"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              83.98640424013138,
-              53.38464020487046
+              83.98611456155777,
+              53.38463700531644
             ],
             [
-              83.98642838001251,
-              53.384454630341196
+              83.98624062538147,
+              53.38446742861057
             ],
             [
-              83.9872196316719,
-              53.38447062817731
+              83.98717671632768,
+              53.38447862709311
             ],
             [
-              83.98719012737274,
-              53.384665801293764
+              83.9871472120285,
+              53.3846738001729
             ],
             [
-              83.98640424013138,
-              53.38464020487046
+              83.98611456155777,
+              53.38463700531644
             ]
           ]
         ]
@@ -943,7 +953,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-24"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -974,18 +986,20 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-25"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              83.98599386215209,
-              53.384369841709486
+              83.98588925600052,
+              53.384377840644234
             ],
             [
-              83.98593485355376,
-              53.38463060620774
+              83.98579269647597,
+              53.38459861064976
             ],
             [
               83.98512482643127,
@@ -996,8 +1010,8 @@
               53.38438423979094
             ],
             [
-              83.98599386215209,
-              53.384369841709486
+              83.98588925600052,
+              53.384377840644234
             ]
           ]
         ]
@@ -1005,7 +1019,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-26"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1036,7 +1052,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-27"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1067,7 +1085,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-28"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1098,7 +1118,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-29"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1129,7 +1151,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-30"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1164,7 +1188,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-31"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1195,7 +1221,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-32"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1226,7 +1254,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-33"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1257,7 +1287,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-34"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1288,7 +1320,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-35"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1319,7 +1353,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-36"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1350,7 +1386,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-37"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1381,7 +1419,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-38"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1412,7 +1452,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-39"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1443,7 +1485,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-40"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1474,7 +1518,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-41"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1505,7 +1551,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-42"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1536,7 +1584,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-43"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1567,7 +1617,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-44"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1592,6 +1644,104 @@
               83.98162320256232,
               53.38456821484737
             ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            83.98900330066681,
+            53.38484497582609
+          ],
+          [
+            83.98907035589218,
+            53.38369632601449
+          ],
+          [
+            83.98904085159302,
+            53.383305969998446
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            83.98904085159302,
+            53.38330756982546
+          ],
+          [
+            83.98802429437637,
+            53.383241976867474
+          ],
+          [
+            83.98780167102814,
+            53.38327397344497
+          ],
+          [
+            83.98775070905685,
+            53.38341155845425
+          ],
+          [
+            83.98796796798705,
+            53.38369472620207
+          ],
+          [
+            83.98774534463882,
+            53.38444023228358
+          ],
+          [
+            83.98635864257811,
+            53.38442423443604
+          ],
+          [
+            83.98599117994308,
+            53.384457829908904
+          ],
+          [
+            83.98586243391037,
+            53.3846594021894
+          ],
+          [
+            83.98359060287476,
+            53.38463540553937
+          ],
+          [
+            83.98276716470718,
+            53.3846945972516
+          ],
+          [
+            83.98238629102707,
+            53.385027349129274
+          ],
+          [
+            83.98161113262177,
+            53.38485617420931
+          ],
+          [
+            83.98144483566284,
+            53.384638605093485
+          ],
+          [
+            83.98170500993727,
+            53.384373041283574
+          ],
+          [
+            83.9819410443306,
+            53.38435864319835
+          ],
+          [
+            83.98318156599998,
+            53.384664201517765
           ]
         ]
       }
