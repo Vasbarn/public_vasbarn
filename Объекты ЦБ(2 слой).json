@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "Имя": "Территория ЦБ",
-        "Слой": 1,
+        "Слой": 2,
         "stroke": "#0000FF",
         "stroke-width": 2,
         "stroke-opacity": 1,
