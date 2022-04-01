@@ -7,7 +7,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "Название": "граница территории"
+        "Имя": "Граница территории"
       },
       "geometry": {
         "type": "LineString",
@@ -134,12 +134,12 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#000000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "",
         "fill-opacity": 0.5,
-        "Название": "ТСК"
+        "Имя": "ТСК"
       },
       "geometry": {
         "type": "Polygon",
@@ -227,7 +227,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "Название": "Дорога"
+        "Имя": "Главная дорога",
+        "fill": ""
       },
       "geometry": {
         "type": "LineString",
@@ -297,7 +298,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "Название": "Дорога"
+        "Имя": "Дорога к ТЗ",
+        "fill": ""
       },
       "geometry": {
         "type": "LineString",
@@ -323,7 +325,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "Название": "Дорога"
+        "Имя": "ЖД дорога",
+        "fill": ""
       },
       "geometry": {
         "type": "LineString",
