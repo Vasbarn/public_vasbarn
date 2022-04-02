@@ -1650,7 +1650,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-45"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1671,7 +1673,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "ЦБ-46"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
