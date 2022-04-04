@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "Территория Бийск"
+        "Имя": "Бийск 0"
       },
       "geometry": {
         "type": "Polygon",
