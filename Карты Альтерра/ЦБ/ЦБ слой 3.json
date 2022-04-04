@@ -131,7 +131,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ 1"
+        "Имя": "ЦБ 1/0"
       },
       "geometry": {
         "type": "LineString",
