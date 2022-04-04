@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "Выбор Территория"
+        "Имя": "Выбор 0"
       },
       "geometry": {
         "type": "Polygon",
