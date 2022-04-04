@@ -1176,7 +1176,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 33"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
