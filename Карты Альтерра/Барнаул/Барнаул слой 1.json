@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "Филиал Барнаул территория"
+        "Имя": "Барнаул 0"
       },
       "geometry": {
         "type": "Polygon",
