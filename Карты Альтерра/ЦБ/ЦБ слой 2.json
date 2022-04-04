@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-0"
+        "Имя": "ЦБ 0"
       },
       "geometry": {
         "type": "LineString",
@@ -131,7 +131,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-1"
+        "Имя": "ЦБ 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -220,7 +220,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-2"
+        "Имя": "ЦБ 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -253,7 +253,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-3"
+        "Имя": "ЦБ 3"
       },
       "geometry": {
         "type": "Polygon",
@@ -286,7 +286,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-4"
+        "Имя": "ЦБ 4"
       },
       "geometry": {
         "type": "Polygon",
@@ -319,7 +319,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-5"
+        "Имя": "ЦБ 5"
       },
       "geometry": {
         "type": "Polygon",
@@ -352,7 +352,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-6"
+        "Имя": "ЦБ 6"
       },
       "geometry": {
         "type": "Polygon",
@@ -385,7 +385,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-7"
+        "Имя": "ЦБ 7"
       },
       "geometry": {
         "type": "Polygon",
@@ -418,7 +418,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-8"
+        "Имя": "ЦБ 8"
       },
       "geometry": {
         "type": "Polygon",
@@ -451,7 +451,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-9"
+        "Имя": "ЦБ 9"
       },
       "geometry": {
         "type": "Polygon",
@@ -488,7 +488,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-10"
+        "Имя": "ЦБ 10"
       },
       "geometry": {
         "type": "Polygon",
@@ -521,7 +521,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-11"
+        "Имя": "ЦБ 11"
       },
       "geometry": {
         "type": "Polygon",
@@ -554,7 +554,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-12"
+        "Имя": "ЦБ 12"
       },
       "geometry": {
         "type": "Polygon",
@@ -587,7 +587,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-13"
+        "Имя": "ЦБ 13"
       },
       "geometry": {
         "type": "Polygon",
@@ -620,7 +620,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-14"
+        "Имя": "ЦБ 14"
       },
       "geometry": {
         "type": "Polygon",
@@ -653,7 +653,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-15"
+        "Имя": "ЦБ 15"
       },
       "geometry": {
         "type": "Polygon",
@@ -686,7 +686,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-16"
+        "Имя": "ЦБ 16"
       },
       "geometry": {
         "type": "Polygon",
@@ -723,7 +723,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-17"
+        "Имя": "ЦБ 17"
       },
       "geometry": {
         "type": "Polygon",
@@ -756,7 +756,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-18"
+        "Имя": "ЦБ 18"
       },
       "geometry": {
         "type": "Polygon",
@@ -789,7 +789,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-19"
+        "Имя": "ЦБ 19"
       },
       "geometry": {
         "type": "Polygon",
@@ -822,7 +822,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-20"
+        "Имя": "ЦБ 20"
       },
       "geometry": {
         "type": "Polygon",
@@ -855,7 +855,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-21"
+        "Имя": "ЦБ 21"
       },
       "geometry": {
         "type": "Polygon",
@@ -888,7 +888,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-22"
+        "Имя": "ЦБ 22"
       },
       "geometry": {
         "type": "Polygon",
@@ -921,7 +921,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-23"
+        "Имя": "ЦБ 23"
       },
       "geometry": {
         "type": "Polygon",
@@ -954,7 +954,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-24"
+        "Имя": "ЦБ 24"
       },
       "geometry": {
         "type": "Polygon",
@@ -987,7 +987,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-25"
+        "Имя": "ЦБ 25"
       },
       "geometry": {
         "type": "Polygon",
@@ -1020,7 +1020,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-26"
+        "Имя": "ЦБ 26"
       },
       "geometry": {
         "type": "Polygon",
@@ -1053,7 +1053,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-27"
+        "Имя": "ЦБ 27"
       },
       "geometry": {
         "type": "Polygon",
@@ -1086,7 +1086,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-28"
+        "Имя": "ЦБ 28"
       },
       "geometry": {
         "type": "Polygon",
@@ -1119,7 +1119,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-29"
+        "Имя": "ЦБ 29"
       },
       "geometry": {
         "type": "Polygon",
@@ -1152,7 +1152,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-30"
+        "Имя": "ЦБ 30"
       },
       "geometry": {
         "type": "Polygon",
@@ -1189,7 +1189,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-31"
+        "Имя": "ЦБ 31"
       },
       "geometry": {
         "type": "Polygon",
@@ -1222,7 +1222,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-32"
+        "Имя": "ЦБ 32"
       },
       "geometry": {
         "type": "Polygon",
@@ -1255,7 +1255,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-33"
+        "Имя": "ЦБ 33"
       },
       "geometry": {
         "type": "Polygon",
@@ -1288,7 +1288,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-34"
+        "Имя": "ЦБ 34"
       },
       "geometry": {
         "type": "Polygon",
@@ -1321,7 +1321,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-35"
+        "Имя": "ЦБ 35"
       },
       "geometry": {
         "type": "Polygon",
@@ -1354,7 +1354,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-36"
+        "Имя": "ЦБ 36"
       },
       "geometry": {
         "type": "Polygon",
@@ -1387,7 +1387,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-37"
+        "Имя": "ЦБ 37"
       },
       "geometry": {
         "type": "Polygon",
@@ -1420,7 +1420,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-38"
+        "Имя": "ЦБ 38"
       },
       "geometry": {
         "type": "Polygon",
@@ -1453,7 +1453,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-39"
+        "Имя": "ЦБ 39"
       },
       "geometry": {
         "type": "Polygon",
@@ -1486,7 +1486,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-40"
+        "Имя": "ЦБ 40"
       },
       "geometry": {
         "type": "Polygon",
@@ -1519,7 +1519,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-41"
+        "Имя": "ЦБ 41"
       },
       "geometry": {
         "type": "Polygon",
@@ -1552,7 +1552,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-42"
+        "Имя": "ЦБ 42"
       },
       "geometry": {
         "type": "Polygon",
@@ -1585,7 +1585,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-43"
+        "Имя": "ЦБ 43"
       },
       "geometry": {
         "type": "Polygon",
@@ -1618,7 +1618,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-44"
+        "Имя": "ЦБ 44"
       },
       "geometry": {
         "type": "Polygon",
@@ -1651,7 +1651,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-45"
+        "Имя": "ЦБ 45"
       },
       "geometry": {
         "type": "LineString",
@@ -1674,7 +1674,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "ЦБ-46"
+        "Имя": "ЦБ 46"
       },
       "geometry": {
         "type": "LineString",
