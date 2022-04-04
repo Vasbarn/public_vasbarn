@@ -4,12 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "Территория ЦБ",
-        "Слой": 1,
-        "stroke": "#0000FF",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#0000FF"
+        "Имя": "ЦБ 0"
       },
       "geometry": {
         "type": "Polygon",
