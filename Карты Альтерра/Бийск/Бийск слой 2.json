@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "Территория Бийск"
+        "Имя": "Бийск 0"
       },
       "geometry": {
         "type": "LineString",
@@ -50,7 +50,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 1"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -81,7 +83,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -112,7 +116,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 3"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -143,7 +149,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 4"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -174,7 +182,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 5"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -205,7 +215,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 6"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -236,7 +248,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 7"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -267,7 +281,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 8"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -298,7 +314,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 9"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -345,7 +363,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 10"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -376,7 +396,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 11"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -415,7 +437,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 12"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -446,7 +470,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 13"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -477,7 +503,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 14"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -508,7 +536,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 15"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -539,7 +569,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 16"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -570,7 +602,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 17"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -601,7 +635,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 18"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -632,7 +668,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 19"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -663,7 +701,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 20"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -694,7 +734,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 21"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -725,7 +767,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 22"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -756,7 +800,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 23"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -787,7 +833,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 24"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -818,7 +866,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 25"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -849,7 +899,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 26"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -880,7 +932,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 27"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -911,7 +965,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 28"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -942,7 +998,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 29"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -973,7 +1031,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 30"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1012,7 +1072,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 31"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1043,7 +1105,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Бийск 32"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
