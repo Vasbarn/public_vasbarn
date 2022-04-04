@@ -117,7 +117,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "Барнаул 3"
+        "Имя": "Барнаул 3/0"
       },
       "geometry": {
         "type": "LineString",
@@ -272,7 +272,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "Барнаул 8"
+        "Имя": "Барнаул 8/0"
       },
       "geometry": {
         "type": "LineString",
