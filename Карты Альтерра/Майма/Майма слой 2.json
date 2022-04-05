@@ -34,7 +34,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 1"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -65,7 +67,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -96,7 +100,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 3"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -127,7 +133,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 4"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -158,7 +166,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 5"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -189,7 +199,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 6"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -220,7 +232,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 7"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -251,7 +265,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 8"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -282,7 +298,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 9"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -313,7 +331,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 10"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -348,7 +368,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 11"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -379,7 +401,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 12"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -410,7 +434,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 13"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -467,7 +493,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 14"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -498,7 +526,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 15"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -529,7 +559,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 16"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -560,7 +592,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 17"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -591,7 +625,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 18"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -622,7 +658,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 19"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -653,7 +691,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 20"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -684,7 +724,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 21"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -723,7 +765,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 22"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -754,7 +798,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 23"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -785,7 +831,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 24"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -816,7 +864,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 25"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -847,7 +897,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 26"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -878,7 +930,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 27"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -909,7 +963,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 28"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -940,7 +996,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 29"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -971,7 +1029,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 30"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1006,7 +1066,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 31"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1037,7 +1099,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Имя": "Майма 32"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
