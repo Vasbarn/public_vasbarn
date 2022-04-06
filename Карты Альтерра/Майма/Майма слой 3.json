@@ -283,7 +283,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "Майма 9"
+        "Имя": "Майма 9/0"
       },
       "geometry": {
         "type": "LineString",
