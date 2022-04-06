@@ -1277,7 +1277,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "Майма 1/3"
+        "Имя": "Майма 9/1"
       },
       "geometry": {
         "type": "Polygon",
@@ -1310,7 +1310,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "Майма 1/4"
+        "Имя": "Майма 9/2"
       },
       "geometry": {
         "type": "Polygon",
@@ -1343,7 +1343,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "Майма 1/5"
+        "Имя": "Майма 9/3"
       },
       "geometry": {
         "type": "Polygon",
@@ -1376,7 +1376,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "Майма 1/6"
+        "Имя": "Майма 1/3"
       },
       "geometry": {
         "type": "Polygon",
@@ -1409,7 +1409,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "Майма 1/7"
+        "Имя": "Майма 1/4"
       },
       "geometry": {
         "type": "Polygon",
@@ -1442,7 +1442,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Имя": "Майма 1/8"
+        "Имя": "Майма 1/5"
       },
       "geometry": {
         "type": "Polygon",
